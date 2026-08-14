@@ -1,0 +1,55 @@
+Job Title: Backend AI Engineer – Resume Screening Agent
+
+Location: Remote / Hybrid
+Experience Required: 0–2 Years (Freshers with strong projects can apply)
+
+Job Overview:
+We are looking for a Backend AI Engineer to design and develop an intelligent Resume Screening Agent that can automatically parse resumes, extract structured features, and evaluate candidate eligibility against job descriptions.
+
+Key Responsibilities:
+- Develop backend services using Python (Django / FastAPI)
+- Build NLP pipelines to extract structured data from resumes (PDF/DOCX)
+- Implement skill-matching algorithms between resumes and job descriptions
+- Integrate LLM APIs (OpenAI, Groq, or similar) for semantic evaluation
+- Design scoring logic for eligibility classification (Eligible / Not Eligible)
+- Create REST APIs for resume upload and evaluation
+- Ensure clean architecture, modular code, and logging
+- Optimize performance and scalability
+
+Required Technical Skills:
+- Strong knowledge of Python
+- Experience with Django or FastAPI
+- Understanding of REST API design
+- Experience with NLP libraries (spaCy, NLTK, transformers)
+- Familiarity with LLM integration
+- Experience handling PDF/DOCX parsing
+- Basic understanding of databases (PostgreSQL / MySQL)
+- Git and version control
+
+Preferred Skills:
+- Experience with FAISS or vector databases
+- Knowledge of embeddings and semantic search
+- Experience building AI agents
+- Familiarity with Docker
+- Cloud deployment knowledge (AWS / GCP / Azure)
+
+Eligibility Criteria:
+- Must have hands-on backend development experience
+- Must demonstrate at least one AI/NLP project
+- Must understand API integrations
+- Strong problem-solving skills
+
+Nice to Have:
+- Experience building multi-agent systems
+- Experience with LangChain or similar frameworks
+- Knowledge of prompt engineering
+
+Expected Outcome:
+The candidate should be able to build an AI-powered Resume Screening Agent that:
+1. Accepts resume and job description inputs
+2. Extracts personal details and technical skills
+3. Matches candidate skills with job requirements
+4. Generates eligibility decision with confidence score
+5. Provides structured JSON output
+
+Compensation: As per industry standards

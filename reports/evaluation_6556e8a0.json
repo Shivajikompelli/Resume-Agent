@@ -1,0 +1,79 @@
+{
+  "evaluation_id": "6556e8a0-5b3f-4d59-b2d1-2a13e14e4dbb",
+  "schema_version": "1.0.0",
+  "evaluated_at": "2026-02-25T13:55:18.010022+00:00",
+  "candidate_profile": {
+    "name": null,
+    "contact": {
+      "email": null,
+      "phone": null
+    },
+    "location": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "certifications": [],
+    "total_experience_years": 0.0
+  },
+  "job_requirements": {
+    "job_title": "Unknown Role",
+    "required_skills": [],
+    "preferred_skills": [],
+    "must_have_skills": [],
+    "min_experience_years": 0.0,
+    "required_edu_level": null,
+    "domain": "Software Engineering",
+    "seniority": "MID"
+  },
+  "skills_analysis": {
+    "required_skills_matched": [],
+    "required_skills_missing": [],
+    "preferred_skills_matched": [],
+    "required_match_pct": 0.0,
+    "preferred_match_pct": 0.0,
+    "similarity_pairs": []
+  },
+  "experience_analysis": {
+    "candidate_years": 0.0,
+    "required_years": 0.0,
+    "experience_gap_years": null,
+    "meets_requirement": true
+  },
+  "education_analysis": {
+    "highest_level": null,
+    "meets_requirement": true,
+    "relevant_degrees": []
+  },
+  "scoring": {
+    "required_skill_score": 40.0,
+    "experience_score": 25.0,
+    "education_score": 20.0,
+    "preferred_skill_score": 0.0,
+    "certification_bonus": 0.0,
+    "composite_score": 85.0,
+    "eligibility_category": "STRONGLY_ELIGIBLE",
+    "hard_disqualifier_triggered": false,
+    "hard_disqualifier_reason": null
+  },
+  "explainability": {
+    "confidence_score": 0.72,
+    "reasoning_summary": "Candidate is strongly eligible with a composite score of 85.0/100.",
+    "missing_skills": [],
+    "strengths": [
+      "Education meets or exceeds requirement"
+    ],
+    "gaps": []
+  },
+  "compliance": {
+    "pii_attributes_redacted": [],
+    "protected_attrs_found_and_removed": [],
+    "gate_passed": true
+  },
+  "ingestion_meta": {
+    "format": ".pdf",
+    "ocr_used": false,
+    "file_size_mb": 0.18,
+    "char_count": 3178,
+    "word_count": 410
+  }
+}
